@@ -1,13 +1,3 @@
-"""
-Final Project
-
-Name: Angela Yu
-
-PennKey: yuangel (51993210)
-
-Number of Hours Spent on Project: 27
-
-"""
 # Necessary Imports/Packages
 # pip install emoji <- necessary for emojis to spawn later in code
 

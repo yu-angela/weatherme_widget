@@ -1,7 +1,3 @@
-Name: Angela Yu
-PennID: yuangel (51993210)
-Number of Hours Spent on Project: 27
-
 Project Name: WeatherMe Widget
 
 Packages Used:
